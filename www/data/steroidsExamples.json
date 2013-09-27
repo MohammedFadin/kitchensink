@@ -8,5 +8,10 @@
     "example_id": 2,
     "name": "Camera and userFilesPath",
     "url": "/views/camera/index.html"
+  },
+  {
+    "example_id": 3,
+    "name": "Pull-to-refresh",
+    "url": "/views/pullToRefresh/index.html"
   }
 ]
