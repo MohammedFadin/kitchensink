@@ -8,5 +8,11 @@
     "example_id": 2,
     "name": "Camera and userFilesPath",
     "url": "/views/camera/index.html"
+  },
+  {
+    "example_id": 3,
+    "name": "Popping multiple layers",
+    "url": "/views/layers/index.html"
   }
+
 ]
