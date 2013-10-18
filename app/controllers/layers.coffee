@@ -24,6 +24,7 @@ layersApp.controller "ShowCtrl", ($scope)->
     console.log "Show view is #{document.visibilityState}"
     if document.visibilityState is "visible"
       if deleted
+        deleted = false
         setTimeout(
           ->
             steroids.layers.pop()
